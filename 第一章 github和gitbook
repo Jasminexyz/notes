@@ -1,0 +1,5 @@
+首先打开github,并创建自己的账户，找到notes里老师编辑好的东西， 这些并不是很难， 难点在于如何把github里的东西同步到gitbook上去。
+1.进入gitbook的官网：https://www.gitbook.com/
+2.点击（or login with Github account)
+3.登陆之后，选择+NEW BOOK
+4.选择HUB，在右边最下方选择带有hub中想要导入的notes
